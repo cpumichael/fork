@@ -6,6 +6,7 @@ with open files.
 To test run:
 
 make
+
 strace -f ./a.out
 
 
